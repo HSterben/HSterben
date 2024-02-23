@@ -9,6 +9,7 @@
 <p align="center">
 I'm currently diving deep into the world of <strong>Mobile Application Development, System Development, Networking, and Back-end Website Development</strong>. My journey is fueled by curiosity and the relentless pursuit of knowledge. Join me as I explore the realms of <strong>Web Services, Ethical Hacking, Rust, React, Vue.js, C++, and Python</strong>.
 </p>
+<br>
 <p align="center">👨‍💻 All of my projects are available at <a href="https://sterben.world">https://sterben.world</a></p>
 <p align="center">
 📫 How to reach me: <strong><a href="mailto:OfficialSterbenX@gmail.com">OfficialSterbenX@gmail.com</a></strong>
