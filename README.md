@@ -3,7 +3,7 @@
 <p align="center">
 <a href="https://github.com/HSterben/Sterben.world"><img src="https://img.shields.io/badge/Currently_Working_on-Sterben.world-blue?style=for-the-badge&logo=github" alt="Sterben.world"></a>
 </p>
-## aa
+##
 <p align="center">
 I'm currently diving deep into the world of <strong>Mobile Application Development, System Development, Networking, and Back-end Website Development</strong>. My journey is fueled by curiosity and the relentless pursuit of knowledge. Join me as I explore the realms of <strong>Web Services, Ethical Hacking, Rust, React, Vue.js, C++, and Python</strong>.
 </p>
