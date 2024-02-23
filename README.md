@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://github.com/HSterben/HSterben/blob/main/Sterben.gif?raw=true" alt="Sterben Logo">
 </p>
-<h3 align="left">A passionate software engineer from the digital realm</h3>
+<h3 align="left">An aspiring software engineer from the digital realm</h3>
 <p align="left">
 <a href="https://github.com/HSterben/Sterben.world"><img src="https://img.shields.io/badge/Currently_Working_on-Sterben.world-blue?style=for-the-badge&logo=github" alt="Sterben.world"></a>
 </p>
