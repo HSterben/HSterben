@@ -1,4 +1,4 @@
-##<h1 align="center">Hi 👋, I'm Sterben</h1>
+<h1 align="center">Hi 👋, I'm Sterben</h1>
 <h3 align="center">A passionate software engineer from the digital realm</h3>
 <p align="center">
 <a href="https://github.com/HSterben/Sterben.world"><img src="https://img.shields.io/badge/Currently_Working_on-Sterben.world-blue?style=for-the-badge&logo=github" alt="Sterben.world"></a>
