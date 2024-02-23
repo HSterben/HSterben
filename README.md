@@ -1,4 +1,6 @@
-![logo](https://github.com/HSterben/HSterben/blob/main/Sterben.gif)
+<p align="center">
+  <img src="https://github.com/HSterben/HSterben/blob/main/Sterben.gif?raw=true" alt="Sterben Logo">
+</p>
 <h1 align="center">Hi 👋, I'm Sterben</h1>
 <h3 align="center">A passionate software engineer from the digital realm</h3>
 <p align="center">
