@@ -3,7 +3,7 @@
 </p>
 <h3 align="left">An aspiring software engineer from the digital realm</h3>
 <p align="left">
-<a href="https://github.com/HSterben/Sterben.world"><img src="https://img.shields.io/badge/Currently_Working_on-Sterben.world-blue?style=for-the-badge&logo=github" alt="Sterben.world"></a>
+<a href="https://github.com/HSterben/Sterben.world"><img src="https://img.shields.io/badge/Currently_Working_on-Sterben.world-blue?style=for-the-badge&logo=github" alt="PolyBlood"></a>
 </p>
 <p align="left">
 I'm currently diving deep into the world of <strong>Mobile Application Development, System Development, Networking, and Back-end Website Development</strong>.</p>
