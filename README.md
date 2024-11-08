@@ -16,7 +16,7 @@
 </pre>
 
 
-<table>
+<table align="center">
   <!-- WELCOME MESSAGE (1) -->
   <tr>
     <td align="center" width="40%">
