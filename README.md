@@ -1,6 +1,8 @@
 <pre align="center">
 
 
+
+
   ██████ ▄▄▄█████▓▓█████  ██▀███   ▄▄▄▄   ▓█████  ███▄    █ 
 ▒██    ▒ ▓  ██▒ ▓▒▓█   ▀ ▓██ ▒ ██▒▓█████▄ ▓█   ▀  ██ ▀█   █ 
 ░ ▓██▄   ▒ ▓██░ ▒░▒███   ▓██ ░▄█ ▒▒██▒ ▄██▒███   ▓██  ▀█ ██▒
@@ -13,152 +15,140 @@
       ░
 </pre>
 
-<img src="assets/PurpleFlame.gif" align="left" height="150">
-<img src="assets/PurpleFlame.gif" align="right" height="150">
-<br>
 
+<table>
+  <!-- WELCOME MESSAGE (1) -->
+  <tr>
+    <td align="center" width="40%">
+      <img src="assets/PurpleFlame.gif" align="left" height="150">
+      <img src="assets/PurpleFlame.gif" align="right" height="150">
+      <div align="center">
+        <h3>$${\color{#601BBB}Hello, \space I \space am \space Sterben}$$</h2>
+        Welcome to my GitHub.
+        <br>
+        I'm a programmer aspiring to be a software engineer.
+        <br>
+        <br>
+        <br>
+        <!-- GIF -->
+        <img src="assets/Aesthetic.gif" align="center" width="450">
+        <br>
+      </div>
+      <br>
+    </td>
+  </tr>
 
-$${\color{#601BBB}Hello, \space I \space am \space Sterben}$$
+  
 
+  <!-- PROGRAMMING LANGUAGES (2) -->
+  <tr>
+    <td align="center" width="40%">
+      <img src="assets/PurpleFlame.gif" align="left" height="150">
+      <img src="assets/PurpleFlame.gif" align="right" height="150">
+      <h3 align="center">
+        Programming Languages
+      </h3>
+      <div align="center">
+        I excel in JavaScript, C#, PHP, Java, and know Python, Dart, SQL, HTML, CSS.
+        I use Flutter, .NET, Express, and Bootstrap frameworks.
+        <br>
+        <br>
+        <br>
+      </div>
+      <br>
+    </td>
+  </tr>
 
-<p align="center">
-Welcome to my GitHub.
-I'm a programmer aspiring to be a software engineer.
-</p>
+  <!-- TOOLS AND SOFTWARE (3) -->
+  <tr>
+    <td align="center" width="40%">
+      <img src="assets/PurpleFlame.gif" align="left" height="150">
+      <img src="assets/PurpleFlame.gif" align="right" height="150">
+      <h3 align="center">
+        Tools and software
+      </h3>
+      <div align="center">
+        Unity, Android studio, Blender, NetBeans, Docker, XAMPP, Postman, Firebase, VirtualBox
+      </div>
+      <br>
+    </td>
+  </tr>
 
-<br>
-<br>
+  <!-- LINK TO PROJECTS (4) -->
+  <tr>
+    <td align="center" width="40%">
+      <img src="assets/PurpleFlame.gif" align="left" height="150">
+      <img src="assets/PurpleFlame.gif" align="right" height="150">
+      <h3 align="center">
+        Projects
+      </h3>
+      <div align="center">
+        Good projects
+        Links to repo
+        Brief descriptions
+      </div>
+      <br>
+    </td>
+  </tr>
 
-<table align="center" style="overflow: hidden">
+  <!-- EDUCATION (5) -->
+  <tr>
+    <td align="center" width="40%">
+      <img src="assets/PurpleFlame.gif" align="left" height="150">
+      <img src="assets/PurpleFlame.gif" align="right" height="150">
+      <h3 align="center">
+        Education
+      </h3>
+      <div align="center">
+        Your degree and institution.
+        Relevant coursework or specializations.
+      </div>
+      <br>
+    </td>
+  </tr>
 
-<tr>
-<td>
-<img src="assets/Aesthetic.gif" width="450">
-</td>
-</tr>
-<tr>
+  <!-- INTERESTS (6) -->
+  <tr>
+    <td align="center" width="40%">
+      <img src="assets/PurpleFlame.gif" align="left" height="150">
+      <img src="assets/PurpleFlame.gif" align="right" height="150">
+      <h3 align="center">
+        Technical Interests
+      </h3>
+      <div align="center">
+        Website Development, Blockchain Technology, Game Development, Database Management
+      </div>
+      <br>
+    </td>
+  </tr>
+
+  <!-- ACHIEVEMENTS AND CERTIFICATIONS (7) -->
+  <tr>
+    <td align="center" width="40%">
+      <img src="assets/PurpleFlame.gif" align="left" height="150">
+      <img src="assets/PurpleFlame.gif" align="right" height="150">
+      <h3 align="center">
+        Achievements & Certifications
+      </h3>
+      <div align="center">
+        4x Honor Roll
+      </div>
+      <br>
+    </td>
+  </tr>
+
+  <!-- CONTACT INFORMATION (8) -->
+  <tr>
+    <td align="center" width="40%">
+      <img src="assets/PurpleFlame.gif" align="left" height="150">
+      <img src="assets/PurpleFlame.gif" align="right" height="150">
+      <h3 align="center">
+        Contact Information
+      </h3>
+      <div align="center">
+        Link to ... -->
+      </div>
+    </td>
+  </tr>
 
 </table>
-
-<br>
-<br>
-
-<img src="assets/PurpleFlame.gif" align="left" height="150">
-<img src="assets/PurpleFlame.gif" align="right" height="150">
-<br>
-<h3 align="center">
-Programming Languages
-</h3>
-<p align="center">
-I excel at Javascript, C#, PHP, Java
-I also know python, dart, sql, html, css 
-Technologies and frameworks
-Flutter, .NET, Express, Bootstrap
-</p>
-
-<br>
-<br>
-
-<img src="assets/PurpleFlame.gif" align="left" height="150">
-<img src="assets/PurpleFlame.gif" align="right" height="150">
-<br>
-<h3 align="center">
-Tools and software
-</h3>
-<p align="center">
-Unity, Android studio, Blender, NetBeans, Docker, XAMPP, Postman, Firebase, VirtualBox
-</p>
-
-<br>
-<br>
-
-<img src="assets/PurpleFlame.gif" align="left" height="150">
-<img src="assets/PurpleFlame.gif" align="right" height="150">
-<br>
-<h3 align="center">
-Projects
-</h3>
-<p align="center">
-Good projects
-Links to repo
-Brief descriptions
-</p>
-
-<br>
-<br>
-
-<img src="assets/PurpleFlame.gif" align="left" height="150">
-<img src="assets/PurpleFlame.gif" align="right" height="150">
-<br>
-<h3 align="center">
-Education
-</h3>
-<p align="center">
-Your degree and institution.
-Relevant coursework or specializations.
-</p>
-
-<br>
-<br>
-
-<img src="assets/PurpleFlame.gif" align="left" height="150">
-<img src="assets/PurpleFlame.gif" align="right" height="150">
-<br>
-<h3 align="center">
-Technical Interests
-</h3>
-<p align="center">
-Website Development, Blockchain Technology, Game Development, Database Management
-</p>
-
-<br>
-<br>
-
-<img src="assets/PurpleFlame.gif" align="left" height="150">
-<img src="assets/PurpleFlame.gif" align="right" height="150">
-<br>
-<h3 align="center">
-Achievements & Certifications
-</h3>
-<p align="center">
-4x Honor Roll
-</p>
-
-<br>
-<br>
-
-<img src="assets/PurpleFlame.gif" align="left" height="150">
-<img src="assets/PurpleFlame.gif" align="right" height="150">
-<br>
-<h3 align="center">
-Contact Information
-</h3>
-<p align="center">
-Link to ... -->
-</p>
-
-
-
-<!--
-
-
-:
-
-
-
-
-:
-
-
-
-
-:
-
-
-
-
-:
-
-
-
-
