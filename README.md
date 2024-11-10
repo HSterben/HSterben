@@ -46,6 +46,7 @@
       <img src="assets/PurpleFlame.gif" align="left" height="150">
       <img src="assets/PurpleFlame.gif" align="right" height="150">
       <h3 align="center">
+        <h3>$${\color{#601BBB}Hello, \space I \space am \space Sterben}$$</h2>
         Programming Languages and Frameworks
       </h3>
       <div align="center">
@@ -126,8 +127,72 @@
         Education
       </h3>
       <div align="center">
-        Your degree and institution.
-        Relevant coursework or specializations.
+        DEC in Computer Science and Technology, aiming for a BAC in Software Engineering.
+        <br>
+        Coursework includes:
+        <br>
+        <table>
+          <tr>
+            <td align="center">
+              Java
+            </td>
+          </tr>
+          <tr>
+            <td align="center">
+              Game Programming with Greenfoot and Unity
+            </td>
+          </tr>
+          <tr>
+            <td align="center">
+              Database Management with SQL
+            </td>
+          </tr>
+          <tr>
+            <td align="center">
+              Java Programming Patterns, focusing on data structures and algorithms
+            </td>
+          </tr>
+          <tr>
+            <td align="center">
+              Front-end Web Development using HTML, CSS, JavaScript
+            </td>
+          </tr>
+          <tr>
+            <td align="center">
+              Unix/Linux systems
+            </td>
+          </tr>
+          <tr>
+            <td align="center">
+              Application Development with .NET and C#
+            </td>
+          </tr>
+          <tr>
+            <td align="center">
+              Back-end Web Development with PHP
+            </td>
+          </tr>
+          <tr>
+            <td align="center">
+              Networking with CCNA
+            </td>
+          </tr>
+          <tr>
+            <td align="center">
+              Mobile App Development using Android Studio and Flutter
+            </td>
+          </tr>
+          <tr>
+            <td align="center">
+              API Development with PHP and JavaScript
+            </td>
+          </tr>
+          <tr>
+            <td align="center">
+              Internet of Things using Python
+            </td>
+          </tr>
+        </table>
       </div>
       <br>
     </td>
@@ -142,7 +207,28 @@
         Technical Interests
       </h3>
       <div align="center">
-        Website Development, Blockchain Technology, Game Development, Database Management
+        <table>
+          <tr>
+            <td align="center">
+              Website Development
+            </td>
+          </tr>
+          <tr>
+            <td align="center">
+              Blockchain Technology
+            </td>
+          </tr>
+          <tr>
+            <td align="center">
+              Game Development
+            </td>
+          </tr>
+          <tr>
+            <td align="center">
+              Database Management
+            </td>
+          </tr>
+        </table>
       </div>
       <br>
     </td>
@@ -157,7 +243,7 @@
         Achievements & Certifications
       </h3>
       <div align="center">
-        4x Honor Roll
+        Four-time Honor Roll Student
       </div>
       <br>
     </td>
