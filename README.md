@@ -257,7 +257,7 @@
         Contact Information
       </h3>
       <div align="center">
-        Link to ... -->
+        Email: hadis500296@gmail.com
       </div>
     </td>
   </tr>
