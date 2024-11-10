@@ -106,9 +106,12 @@
         Projects
       </h3>
       <div align="center">
-        Good projects
-        Links to repo
-        Brief descriptions
+        <a href="https://github.com/HSterben/Sterben.world"><img src="https://img.shields.io/badge/Portfolio_Website-Sterben.world-blue?style=for-the-badge&logo=github" alt="Sterben.World"></a>
+        <a href="https://github.com/HSterben/PolyBlood"><img src="https://img.shields.io/badge/FPS_Game_in_Progress-Poly_Blood-blue?style=for-the-badge&logo=github" alt="Poly Blood"></a>
+        <a href="https://github.com/HSterben/VanishVault"><img src="https://img.shields.io/badge/Auto_Delete_Software-Vanish_Vault-blue?style=for-the-badge&logo=github" alt="Vanish Vault"></a>
+        <a href="https://github.com/HSterben/Perfumes-Mobile-App"><img src="https://img.shields.io/badge/Mobile_App_Flutter-Spectra_Perfumes_App-blue?style=for-the-badge&logo=github" alt="Spectra App"></a>
+        <br>
+        <a href="https://github.com/HSterben/Spectra-Perfumes-Project"><img src="https://img.shields.io/badge/Backend_Website_PHP-Spectra_Perfumes_Website-blue?style=for-the-badge&logo=github" alt="Spectra Website"></a>
       </div>
       <br>
     </td>
