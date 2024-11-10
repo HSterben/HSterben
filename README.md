@@ -23,7 +23,7 @@
       <img src="assets/PurpleFlame.gif" align="left" height="150">
       <img src="assets/PurpleFlame.gif" align="right" height="150">
       <div align="center">
-        <h3>$${\color{#601BBB}Hello, \space I \space am \space Sterben}$$</h2>
+        <h3>$${\color{#601BBB}Hello, \space I \space am \space Sterben}$$</h3>
         Welcome to my GitHub.
         <br>
         I'm a programmer aspiring to be a software engineer.
@@ -46,7 +46,6 @@
       <img src="assets/PurpleFlame.gif" align="left" height="150">
       <img src="assets/PurpleFlame.gif" align="right" height="150">
       <h3 align="center">
-        <h3>$${\color{#601BBB}Hello, \space I \space am \space Sterben}$$</h2>
         Programming Languages and Frameworks
       </h3>
       <div align="center">
