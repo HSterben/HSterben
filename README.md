@@ -242,7 +242,7 @@
         Achievements & Certifications
       </h3>
       <div align="center">
-        Four-time Honor Roll Student
+        Five-time Honor Roll Student
       </div>
       <br>
     </td>
